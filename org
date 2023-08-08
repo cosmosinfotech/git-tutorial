@@ -2,4 +2,7 @@ Infosys
 TCS
 Wipro
 IBM
-Flextronics
+Flextronicos
+Google
+Apple
+
