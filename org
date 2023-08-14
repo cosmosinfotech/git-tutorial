@@ -5,4 +5,8 @@ IBM
 Flextronicos
 Google
 Apple
-
+Tesla
+Tata Motors
+SAP Labs
+Google
+Oracle
